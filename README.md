@@ -73,7 +73,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Flas
   Database: SQLAlchemy (SQLite)
   Frontend: HTML, SCSS
 
-## Connect with Me
+### Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ziadbensaada-181717?style=for-the-badge&logo=github)](https://github.com/ziadbensaada)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziad%20Ben%20Saada-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziad-ben-saada-850219226/)
