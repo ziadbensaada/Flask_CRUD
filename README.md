@@ -8,6 +8,10 @@
 
 This is a simple CRUD (Create, Read, Update, Delete) application built with Flask, SQLAlchemy, and SCSS. The application provides an interface to create new tasks, display them, and allows for editing or removing existing tasks.
 
+## Live Demo
+
+Check out the live demo of the project: [Flask CRUD Application](https://ziadbensaada.pythonanywhere.com/)
+
 ## Features
 
 - Create new tasks
